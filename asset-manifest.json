@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aliModdd98/fadv-portofolio-task/static/css/main.de944287.css",
+    "main.js": "/aliModdd98/fadv-portofolio-task/static/js/main.49ff54ab.js",
+    "static/js/787.512dd3f2.chunk.js": "/aliModdd98/fadv-portofolio-task/static/js/787.512dd3f2.chunk.js",
+    "index.html": "/aliModdd98/fadv-portofolio-task/index.html",
+    "main.de944287.css.map": "/aliModdd98/fadv-portofolio-task/static/css/main.de944287.css.map",
+    "main.49ff54ab.js.map": "/aliModdd98/fadv-portofolio-task/static/js/main.49ff54ab.js.map",
+    "787.512dd3f2.chunk.js.map": "/aliModdd98/fadv-portofolio-task/static/js/787.512dd3f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de944287.css",
+    "static/js/main.49ff54ab.js"
+  ]
+}
