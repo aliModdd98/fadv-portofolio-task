@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/fadv-portofolio-task/static/css/main.de944287.css",
-    "main.js": "/fadv-portofolio-task/static/js/main.6735ad62.js",
+    "main.css": "/fadv-portofolio-task/static/css/main.c64e50c0.css",
+    "main.js": "/fadv-portofolio-task/static/js/main.52a9e6c1.js",
     "static/js/787.512dd3f2.chunk.js": "/fadv-portofolio-task/static/js/787.512dd3f2.chunk.js",
+    "static/media/homepage.jpg": "/fadv-portofolio-task/static/media/homepage.6e22a6245c42a00c743c.jpg",
+    "static/media/about.jpg": "/fadv-portofolio-task/static/media/about.c7b68c263d1b3fca96c0.jpg",
     "static/media/twitter.png": "/fadv-portofolio-task/static/media/twitter.0321bd2239aeea22cb5e.png",
     "static/media/facebook.png": "/fadv-portofolio-task/static/media/facebook.9a6e212e214e7aef33e5.png",
     "static/media/logo1.svg": "/fadv-portofolio-task/static/media/logo1.6711f483981525572df3b2735b4c3166.svg",
     "index.html": "/fadv-portofolio-task/index.html",
-    "main.de944287.css.map": "/fadv-portofolio-task/static/css/main.de944287.css.map",
-    "main.6735ad62.js.map": "/fadv-portofolio-task/static/js/main.6735ad62.js.map",
+    "main.c64e50c0.css.map": "/fadv-portofolio-task/static/css/main.c64e50c0.css.map",
+    "main.52a9e6c1.js.map": "/fadv-portofolio-task/static/js/main.52a9e6c1.js.map",
     "787.512dd3f2.chunk.js.map": "/fadv-portofolio-task/static/js/787.512dd3f2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.de944287.css",
-    "static/js/main.6735ad62.js"
+    "static/css/main.c64e50c0.css",
+    "static/js/main.52a9e6c1.js"
   ]
 }
